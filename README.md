@@ -2,6 +2,7 @@
 
 Movie Ticket App
 
+SEE DEMO OF PROJECT https://drive.google.com/drive/folders/1lJcVYwqqLk9XatxexFCq78gn36TuGElj?usp=sharing
 ## Getting Started
 
 This project is a starting point for a Flutter application.
